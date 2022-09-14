@@ -1,2 +1,2 @@
-# This repo is based on the Python programs.
+# This repo is based on the following Python programs:
 1. Prime Number
